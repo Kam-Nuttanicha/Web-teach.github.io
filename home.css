@@ -13,7 +13,6 @@ body {
     min-height: 100vh; /* ใช้ min-height แทน height */
     overflow-x: hidden; /* ปิดการเลื่อนในแนวนอนเท่านั้น */
 }
-
 header {
     position: fixed; /* เปลี่ยนจาก absolute เป็น fixed */
     top: 0;
